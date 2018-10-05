@@ -1,0 +1,70 @@
+h1{
+	color: purple;
+	font-family: 'Chicle', cursive;
+	font-size: 30px;
+	padding-top: 20px;
+}
+
+h2{
+	color: purple;
+	
+}
+
+body{
+	background-image:url("https://vignette.wikia.nocookie.net/warnerbroscartoons/images/2/23/The-joker.jpg/revision/latest?cb=20140107001434");
+    background-size: 100%;
+    background-image: fixed;
+    background-repeat: no-repeat;
+}
+
+p{
+	padding-top: 50px;
+	color: white;
+}
+.bg2{
+	background-attachment: fixed;
+    background-size: 100%;
+	background-image:url("https://i.pinimg.com/originals/06/3b/8d/063b8df2ec3e2b8e98ce69c412d64d56.jpg"); 
+}
+#banner{
+    width: 901px;
+    text-align: center;
+    border: solid red 2px;
+    height: 254px;
+    padding : 10px;
+
+}
+
+#nav{
+    white-space: nowrap;
+    text-align: center;
+    
+}
+#nav{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#nav a{
+    font-family: 'VT323', monospace;
+    font-size: 20px;
+    font-weight:bold;
+    text-transform: uppercase;
+    margin-right: 10px;
+    padding: 10px;
+    padding-left: 15px;
+    color: #00FFBF;
+}
+#nav a:hover{
+    text-decoration: none;
+    color: red;
+}
+
+.pics{
+	display: flex;
+  	justify-content: space-around;
+  	flex-direction: row;
+
+
+}
+
